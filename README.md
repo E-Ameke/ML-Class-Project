@@ -30,7 +30,7 @@ The aerospace industry's safety and cost concerns drive the investigation of dam
 - literature/
   - references/
     - Shabbir Ahmed and Fotis Kopsaftopoulos (2022): “Statistical Active-Sensing Structural Health Monitoring via Stochastic Time-Varying Time Series Models.”
-    - Nardi et al.: "Detection of low-velocity impact-induced delaminations in composite laminates using Auto-Regressive models."
+    - Nardi et al.: "Detection of low-velocity impact-induced delaminations in composite laminates using Auto-Regressive models." [Link](https://linkinghub.elsevier.com/retrieve/pii/S0263822316300253)
     - Ahmed and Kopsaftopoulos (2023): "Active Sensing Acousto-Ultrasound SHM via Stochastic Non-stationary Time Series Models."
   
 To access the repository, click [here](https://github.com/E-Ameke/ML-Class-Project)
