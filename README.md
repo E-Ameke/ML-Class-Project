@@ -1,1 +1,3 @@
-# ML-Class-Project
+# ML-Class-Project <br>
+Title: Probabilistic structural health monitoring of composite structures under impact testing <br><br>
+Project Description: The aerospace industry's safety and cost concerns drive the investigation of damage detection and progression in carbon-fiber-reinforced plastics (CFRP) from low-energy impacts. Leveraging machine learning, specifically Auto-Regressive models, offers a promising avenue for Structural Health Monitoring (SHM). By tailoring these models to the unique characteristics of composite materials and impact-induced damage, the aim is to enhance safety and reduce maintenance costs. This project aims to develop efficient detection techniques. 
