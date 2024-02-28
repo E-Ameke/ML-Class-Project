@@ -8,25 +8,8 @@ The aerospace industry's safety and cost concerns drive the investigation of dam
 ### Folder Structure <br>
 
 - data/
-  - dataset1/
-    - data_file1.csv
-    - data_file2.csv
-  - dataset2/
-    - data_file3.csv
-    - data_file4.csv
-
 - code/
-  - module1/
-    - script1.py
-    - script2.py
-  - module2/
-    - script3.py
-    - script4.py
-
 - notebooks/
-  - notebook1.ipynb
-  - notebook2.ipynb
-
 - literature/
   - references/
     - Shabbir Ahmed and Fotis Kopsaftopoulos (2022): “Statistical Active-Sensing Structural Health Monitoring via Stochastic Time-Varying Time Series Models.”
